@@ -164,7 +164,7 @@ header .fa-bars{
     width: 100%;
 }
 .astro .row{
-   background: url(img/astro/signs.jpeg);
+   background: url(./img/astro/signs.jpeg);
    background-position: center;
    background-repeat: no-repeat;
    background-size: cover;
@@ -217,7 +217,7 @@ header .fa-bars{
     width: 100%;
 }
 .astro2 .row{
-   background: url(img/astro/planets.jpeg);
+   background: url(./img/astro/planets.jpeg);
    background-position: center;
    background-repeat: no-repeat;
    background-size: cover;
@@ -270,7 +270,7 @@ header .fa-bars{
     width: 100%;
 }
 .astro3 .row{
-   background: url(img/astro/wheel-img.jpeg);
+   background: url(./img/astro/wheel-img.jpeg);
    background-position: center;
    background-repeat: no-repeat;
    background-size: cover;
@@ -323,7 +323,7 @@ header .fa-bars{
     width: 100%;
 }
 .astro4 .row{
-   background: url(img/astro/aspects-img1.png);
+   background: url(./img/astro/aspects-img1.png);
    background-position: center;
    background-repeat: no-repeat;
    background-size: cover;
