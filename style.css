@@ -164,7 +164,7 @@ header .fa-bars{
     width: 100%;
 }
 .astro .row{
-   background: url(./img/astro/signs.jpg);
+   background: url(./img/astro/signs.jpeg);
    background-position: center;
    background-repeat: no-repeat;
    background-size: cover;
@@ -174,9 +174,6 @@ header .fa-bars{
    align-items: center;
    min-height: 70vh;
 } 
-.astro {
-    -webkit-background-clip: content-box;
-}
 .row::before{
     content: "";
     background: rgba(0, 0, 0, 0.5);
@@ -215,10 +212,6 @@ header .fa-bars{
 .astro .astro-slider .box .content p{
     color: #fff;
     font-size: 1.7rem;
-}
-.fixed-size-image {
-    width: 1350px; 
-    height: auto; 
 }
 .astro2{
     width: 100%;
@@ -509,11 +502,6 @@ header .fa-bars{
 @media(max-width:768px) {
     html {
         width: 100%;
-    }
-    .fixed-size-image {
-        width: 100%;
-        max-width: 100%;
-        height: auto;
     }
 }
 @media(max-width:695px) {
