@@ -213,6 +213,10 @@ header .fa-bars{
     color: #fff;
     font-size: 1.7rem;
 }
+.fixed-size-image {
+    width: 1350px; 
+    height: auto; 
+}
 .astro2{
     width: 100%;
 }
@@ -502,6 +506,11 @@ header .fa-bars{
 @media(max-width:768px) {
     html {
         width: 100%;
+    }
+    .fixed-size-image {
+        width: 100%;
+        max-width: 100%;
+        height: auto;
     }
 }
 @media(max-width:695px) {
